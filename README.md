@@ -17,6 +17,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enricorticelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats&cache_seconds=86400)
+![GitHub Stats][github-stats]
 
 </div>
+
+[github-stats]: https://github-readme-stats.vercel.app/api?username=enricorticelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats&cache_seconds=86400
